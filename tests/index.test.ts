@@ -1,4 +1,5 @@
 import { SUT } from '../src/index';
+import '../src/StringExtensions';
 
 test.each([
     ["a1b2c3", 123],
